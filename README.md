@@ -2,6 +2,9 @@
 
 Setup virtual [MAAS](https://maas.io/) + [KVM](https://www.linux-kvm.org/page/Main_Page) pod in [Vagrant](https://www.vagrantup.com/) with [vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) plugin.
 
+![vagrant maas](vagrant-maas.png)
+![virt-manager maas](virt-manager-maas.png)
+
 ## Get Started
 
 Install packages:
